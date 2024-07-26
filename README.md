@@ -1,6 +1,6 @@
-## Figma URL
+## Live
 
-[Contentful](https://www.figma.com/file/XtVr3JRCGWyZESYxd9EhZK/Contentful?node-id=0%3A1&t=SNnU6FgNUQXktIFb-1)
+[React Project Contentful CMS](https://react-projects-krsnavc.netlify.app/)
 
 ## Steps
 
